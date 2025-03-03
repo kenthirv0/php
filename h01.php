@@ -5,7 +5,7 @@
  * Kuupäev: 03.03.2025
  */
 
-$nimi = "Mati Tamm";
+$nimi = "Karin Eegreid";
 $synniaasta = 1995;
 $tahtkuju = "Kaalud";
 
